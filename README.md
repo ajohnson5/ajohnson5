@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am Alfie, a Data Engineer currently based in London, UK 🇬
+## I am Alfie, a Data Engineer currently based in London, UK.
 
 Some of the technologies/packages I am currently learning include 📘
 
