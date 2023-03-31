@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**ajohnson5/ajohnson5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am Alfie, a Data Engineer currently based in London, UK 🇬
 
-Here are some ideas to get you started:
+Some of the technologies/packages I am currently learning include 📘
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   Python
+-   PySpark
+-   Rust
+-   Dagster
+-   Docker
+-   GCP
+
+Current Certifications
+1. AWS Certified Cloud Practitioner
+2. Talend Data Integration v7 Certified Developer
+
+Working Towards
+1. Databricks Certified Associate Developer for Apache Spark
+2. Microsoft Certified: Azure Data Engineer Associate
