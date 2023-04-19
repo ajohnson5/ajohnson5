@@ -6,7 +6,6 @@ Some of the technologies/packages I am currently learning include 📘
 
 -   Python
 -   PySpark
--   Rust
 -   Dagster
 -   Docker
 -   GCP
