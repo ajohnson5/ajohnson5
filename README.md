@@ -16,4 +16,5 @@ Current Certifications
 3. Databricks Certified Associate Developer for Apache Spark
 
 Working Towards
-2. Microsoft Certified: Azure Data Engineer Associate
+
+1. Microsoft Certified: Azure Data Engineer Associate
