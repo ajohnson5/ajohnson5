@@ -13,7 +13,7 @@ Some of the technologies/packages I am currently learning include 📘
 Current Certifications
 1. AWS Certified Cloud Practitioner
 2. Talend Data Integration v7 Certified Developer
+3. Databricks Certified Associate Developer for Apache Spark
 
 Working Towards
-1. Databricks Certified Associate Developer for Apache Spark
 2. Microsoft Certified: Azure Data Engineer Associate
