@@ -14,7 +14,3 @@ Current Certifications
 1. AWS Certified Cloud Practitioner
 2. Talend Data Integration v7 Certified Developer
 3. Databricks Certified Associate Developer for Apache Spark
-
-Working Towards
-
-1. Microsoft Certified: Azure Data Engineer Associate
